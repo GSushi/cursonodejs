@@ -1,7 +1,7 @@
 Language: node_js
 node_js:
-  - "9.10.0"
+- "9.10.0"
 services:
-  - mongodb
+- mongodb
 even:
 - NODE_ENV=TEST
